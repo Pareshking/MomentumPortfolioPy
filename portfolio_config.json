@@ -1,0 +1,15 @@
+{
+  "max_stocks": 30,
+  "exit_rank": 60,
+  "dma_period": 200,
+  "lookback_periods": [
+    3,
+    6,
+    9,
+    12
+  ],
+  "high_percentage_threshold": 30,
+  "use_all_time_high": false,
+  "portfolio_file": "current_portfolio.json",
+  "data_cache_file": "stock_data_cache.json"
+}
